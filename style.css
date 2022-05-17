@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+.meio{
+    background-color: antiquewhite;
+    width: 50vw;
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#tabela{
+    width: 90%;
+    padding: 10px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding: 20px;
+    background-color: gray;
+    margin: 20px;
+}
