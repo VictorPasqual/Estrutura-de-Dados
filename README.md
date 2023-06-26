@@ -1,4 +1,4 @@
-Sistema de Cadastro e Pesquisa - Aula de Estrutura de dados - FATEC - ADS
+## Sistema de Cadastro e Pesquisa - Aula de Estrutura de dados - FATEC - ADS
 
 Este é um exemplo de código JavaScript que implementa um sistema de cadastro e pesquisa de dados de clientes. O código permite salvar informações de clientes em uma lista e realizar pesquisas com base em critérios específicos.
 Funcionalidades
@@ -12,7 +12,7 @@ O código possui as seguintes funcionalidades:
         Dependendo da opção selecionada no campo de ordem, os dados salvos são ordenados em ordem crescente (A-Z) ou decrescente (Z-A) com base no nome do cliente.
         Os dados salvos que atendem aos critérios de pesquisa (ou todos, se nenhum critério for especificado) são adicionados à tabela de resultados.
 
-Utilização
+## Utilização
 
 Para utilizar o código, siga as etapas abaixo:
 
